@@ -1,0 +1,17 @@
+{
+  "name": "lab04-gestao-tarefas-ts",
+  "version": "1.0.0",
+  "description": "Sistema de Gestão de Tarefas em TypeScript",
+  "main": "tarefas.ts",
+  "scripts": {
+    "start": "ts-node tarefas.ts",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0",
+    "@types/node": "^20.0.0"
+  }
+}
